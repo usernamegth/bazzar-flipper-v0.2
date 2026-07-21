@@ -17,10 +17,10 @@ import requests
 
 BAZAAR_URL = "https://api.hypixel.net/v2/skyblock/bazaar"
 
-VOLUME_THRESHOLD = float(os.getenv("VOLUME_THRESHOLD", "50000"))
-SPREAD_THRESHOLD_PCT = float(os.getenv("SPREAD_THRESHOLD_PCT", "10"))
+VOLUME_THRESHOLD = float(os.getenv("VOLUME_THRESHOLD", "90000"))
+SPREAD_THRESHOLD_PCT = float(os.getenv("SPREAD_THRESHOLD_PCT", "20"))
 WINDOW_DAYS = float(os.getenv("WINDOW_DAYS", "5"))
-POLL_INTERVAL_MINUTES = int(os.getenv("POLL_INTERVAL_MINUTES", "30"))
+POLL_INTERVAL_MINUTES = int(os.getenv("POLL_INTERVAL_MINUTES", "5"))
 OUTPUT_PATH = os.getenv("OUTPUT_PATH", "docs/data.json")
 
 
