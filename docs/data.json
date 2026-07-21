@@ -1,0 +1,13 @@
+{
+  "items": [],
+  "products_scanned": 0,
+  "last_updated": null,
+  "error": null,
+  "last_checked": null,
+  "config": {
+    "volume_threshold": 90000,
+    "spread_threshold_pct": 20,
+    "window_days": 5,
+    "poll_interval_minutes": 30
+  }
+}
