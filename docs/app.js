@@ -9,6 +9,7 @@ const volumeThresholdEl = document.getElementById('volume-threshold');
 const spreadThresholdEl = document.getElementById('spread-threshold');
 const windowDaysEl = document.getElementById('window-days');
 const pollIntervalEl = document.getElementById('poll-interval');
+const intervalMin = 5; //
 
 let nextSyncAt = null;
 
