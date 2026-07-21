@@ -2352,6 +2352,6 @@
     "volume_threshold": 90000.0,
     "spread_threshold_pct": 20.0,
     "window_days": 5.0,
-    "poll_interval_minutes": 30
+    "poll_interval_minutes": 5
   }
 }
