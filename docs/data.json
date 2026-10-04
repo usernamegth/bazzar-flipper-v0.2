@@ -2214,8 +2214,8 @@
   ],
   "products_scanned": 2197,
   "last_updated": "2026-10-04T02:47:13.353863+00:00",
-  "error": null,
-  "last_checked": "2026-10-04T02:47:13.353881+00:00",
+  "error": "403 Client Error: Forbidden for url: https://api.hypixel.net/v2/skyblock/bazaar",
+  "last_checked": "2026-10-04T09:12:45.246640+00:00",
   "config": {
     "volume_threshold": 90000.0,
     "spread_threshold_pct": 20.0,
